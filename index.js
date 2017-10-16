@@ -1,3 +1,5 @@
 var notInteger = parseInt('non-sense', 10);
 
-console.log(notInteger);
+var floatConverter = parseFloat('2.2222');
+console.log(floatConverter);
+
